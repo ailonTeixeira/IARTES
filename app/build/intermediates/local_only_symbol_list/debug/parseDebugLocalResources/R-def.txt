@@ -1,0 +1,25 @@
+R_DEF: Internal format may change without notice
+local
+color black
+color white
+drawable captura_de_tela_de_2025_04_26_10_55_09
+drawable ic_launcher_background
+drawable ic_launcher_foreground
+id button
+id checkBox
+id constraintLayout
+id editTextText
+id editTextTextPassword
+id imageView3
+id main
+id textView2
+id textView3
+id textView4
+layout activity_main
+mipmap ic_launcher
+mipmap ic_launcher_round
+string app_name
+style Base.Theme.MyApplicationAilon
+style Theme.MyApplicationAilon
+xml backup_rules
+xml data_extraction_rules
